@@ -1,0 +1,32 @@
+const quranText = [
+    {
+        ayat: 'اِنَّاۤ اَعْطَیْنٰكَ الْكَوْثَرَ',
+        soorahArabic: 'سُوْرَۃُ الكَوْثَر',
+        soorahEnglish: 'Sura Kausar',
+        soorahNo: 108,
+        siparaNo: 30,
+        rukuNo: 1,
+        ayatNo: 1,
+       page:1,
+    },
+    {
+        ayat: ' فَصَلِّ لِرَبِّكَ وَ انْحَرْ',
+        soorahArabic: 'سُوْرَۃُ الكَوْثَر',
+        soorahEnglish: 'Sura Kausar',
+        soorahNo: 108,
+        siparaNo: 30,
+        rukuNo: 1,
+        ayatNo: 2,
+       page:1,
+    },
+    {
+        ayat: 'هُوَ الْاَبْتَرُ',
+        soorahArabic: 'سُوْرَۃُ الكَوْثَر',
+        soorahEnglish: 'Sura Kausar',
+        soorahNo: 108,
+        siparaNo: 30,
+        rukuNo: 1,
+        ayatNo: 3,
+       page:1,
+    },
+]

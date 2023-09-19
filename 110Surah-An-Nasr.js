@@ -1,0 +1,32 @@
+const quranText = [
+   {
+    ayat: 'اِذَا جَآءَ نَصْرُ اللّٰهِ وَ الْفَتْحُ',
+    soorahArabic: 'سُوْرَۃُ النَّصْر',
+    soorahEnglish: '	Sura Nasr',
+    soorahNo: 110,
+    siparaNo: 30,
+    rukuNo: 1,
+    ayatNo: 1,
+   Page:1,
+   },
+   {
+    ayat: ' وَ رَاَیْتَ النَّاسَ یَدْخُلُوْنَ فِیْ دِیْنِ اللّٰهِ اَفْوَاجًا',
+    soorahArabic: 'سُوْرَۃُ النَّصْر',
+    soorahEnglish: '	Sura Nasr',
+    soorahNo: 110,
+    siparaNo: 30,
+    rukuNo: 1,
+    ayatNo: 2,
+   Page:1,
+   },
+   {
+    ayat: ' فَسَبِّحْ بِحَمْدِ رَبِّكَ وَ اسْتَغْفِرْهُﳳ-اِنَّهٗ كَانَ تَوَّابًا',
+    soorahArabic: 'سُوْرَۃُ النَّصْر',
+    soorahEnglish: '	Sura Nasr',
+    soorahNo: 110,
+    siparaNo: 30,
+    rukuNo: 1,
+    ayatNo: 3,
+   Page:1,
+   },
+]
